@@ -18,8 +18,8 @@ The dataset used is the California Housing dataset, which is available in `sklea
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Brinda-93/house_price_prediction.git
+   cd house_price_prediction
    ```
 2. Run the script:
    ```bash
